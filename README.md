@@ -9,5 +9,9 @@ Elf example source code: https://github.com/skiff/PS4-CleanELF
 How to use:
 
 -Inject PS5debug Payload [https://github.com/GoldHEN/ps5debug]
+
 -Execute Sender.exe
+
 -Done
+
+-TODO: Create GUI App
