@@ -27,7 +27,7 @@ namespace Sender
 
                 ulong stub = ps4.InstallRPC(p.pid);
 
-                string file = "ps4inject.elf";
+                string file = "PS5-CleanELF.elf";
 
                 ps4.LoadElf(p.pid, file);
 
